@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Tabib%20Hassan&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Backend%20%26%20Systems%20%E2%80%A2%20Hackathon%20Builder&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Tabib%20Hassan&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Backend%20and%20Systems%20|%20Hackathon%20Builder&descAlignY=72&descSize=18" alt="Tabib Hassan" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Intern+%40+Advanced+AI+Labs+%F0%9F%A7%B5;Computer+Vision+for+Industrial+Defect+Detection;RAG+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+LLM+Pipelines;Microservices+%E2%80%A2+Event-Driven+%E2%80%A2+Observability;Co-founder+%40+IUT+Dhongorsho+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Intern+%40+Advanced+AI+Labs;Computer+Vision+for+Industrial+Defect+Detection;RAG+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+LLM+Pipelines;Microservices+%E2%80%A2+Event-Driven+%E2%80%A2+Observability;Co-founder+%40+IUT+Dhongorsho" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,34 +22,15 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 - 🧵 **AI Intern @ Advanced AI Labs:** computer-vision pipelines for **automated fabric defect detection** in the garment (RMG) industry: segmentation, detection & anomaly-detection models on high-resolution factory imagery
 - 🛍️ **Engineer @ Version 3:** an **omnichannel commerce & messaging platform**: unified inbox, store integrations, product-sync services, LLM chatbots & speech-to-text
 - ⚡ **Co-founder @ [IUT Dhongorsho](https://github.com/IUT-Dhongorsho):** a 3-person dev team built to crack hackathons. Motto: *scalability, modularity & clean system design*
-- 🏠 **[Britto.xyz](#-awards--recognition):** peer-to-peer rental & smart-ownership platform, recognised at national and international innovation awards
 - 🌱 **Exploring:** GPU training workflows, model evaluation at scale, agentic systems, Kubernetes & distributed tracing
 
 ---
 
-## 🏆 Awards & Recognition
+## 🏆 Achievements
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🥇 Competitions**
-- 🔸 **CUET API Avengers:** National Finalist
-- 🔸 **CodeSprint (Poridhi):** Finalist
-- 🔸 **DevSprint:** Finalist
-
-</td>
-<td valign="top" width="50%">
-
-**🌏 Britto.xyz**
-- 🔸 Bangladesh **ICT & Innovation Award**
-- 🔸 **Innovation World Cup:** National Round
-- 🔸 **APICTA Awards 2025:** Taiwan
-- 🔸 **UNDP PTIB Civic Tech Challenge**
-
-</td>
-</tr>
-</table>
+- 🥇 **CUET API Avengers:** National Finalist *(CareForAll)*
+- 🥇 **CodeSprint (Poridhi):** Finalist *(CareerPilot)*
+- 🥇 **DevSprint:** Finalist
 
 ---
 
@@ -92,6 +73,19 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 </td>
 </tr>
 </table>
+
+---
+
+## 📌 Pinned Highlights
+
+<p align="center">
+  <a href="https://github.com/AniMahou/GitSage"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AniMahou&repo=GitSage&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/IUT-Dhongorsho/CareerPilot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IUT-Dhongorsho&repo=CareerPilot&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AniMahou/BUP_Hackathon"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AniMahou&repo=BUP_Hackathon&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/IUT-Dhongorsho/API_Avengers_IUT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IUT-Dhongorsho&repo=API_Avengers_IUT&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ---
 
@@ -141,7 +135,8 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 ## 🛠 Tech Stack
 
 <details open>
-<summary><b>💻 Languages</b></summary><br>
+<summary><b>💻 Languages</b></summary>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -150,10 +145,12 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 </details>
 
 <details open>
-<summary><b>🤖 AI / ML</b></summary><br>
+<summary><b>🤖 AI / ML</b></summary>
+<br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -167,10 +164,12 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 `Segmentation` `Object Detection` `Anomaly Detection` `RAG` `Reranking` `Prompt Engineering` `Agents` `ASR`
+
 </details>
 
 <details open>
-<summary><b>🌐 Frontend</b></summary><br>
+<summary><b>🌐 Frontend</b></summary>
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -180,10 +179,12 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Data</b></summary><br>
+<summary><b>⚙️ Backend & Data</b></summary>
+<br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -199,10 +200,12 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
 </details>
 
 <details open>
-<summary><b>📡 DevOps & Messaging</b></summary><br>
+<summary><b>📡 DevOps & Messaging</b></summary>
+<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -215,6 +218,7 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
 </details>
 
 ---
@@ -227,15 +231,7 @@ I'm a **Software Engineering undergrad at Islamic University of Technology (IUT)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniMahou&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniMahou&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniMahou&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+  <img src="https://streak-stats.demolab.com/?user=AniMahou&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
